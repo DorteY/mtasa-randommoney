@@ -12,4 +12,4 @@ function giveRadnomMoneyToAllOnlinePlayers()
 		end
 	end
 end
-setTimer(giveRadnomMoneyToAllOnlinePlayers,30*1000,0)
+setTimer(giveRadnomMoneyToAllOnlinePlayers,5*60*1000,0)--5 minutes
